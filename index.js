@@ -20,8 +20,9 @@ appDiv.innerHTML = `<!DOCTYPE html>
 	</header>
      <main style="color:Silver;background-color: purple;">
      	<h1 style="color:blue;background-color: silver;"> Game:CubeCollider summarised video</h1>
+			 <a href="https://cdn.jsdelivr.net/gh/M-h-sh/js-usx32f@master/movie.mp4">
      	<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4"></video>
+  <source src="movie.mp4" type="video/mp4"></video><
   	<h2 style="color:silver;">Link for downloading a Game:CubeCollider(pc version only)<h2>
   		<a style="color:blue;background-color: silver;" href="https://drive.google.com/file/d/1_bDlkV8DBiClAE9KVWEwvGWUTqQKYNDx/view">Download full game</a><br>
 
