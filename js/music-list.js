@@ -17,17 +17,16 @@ let allMusic = [
     src: "music-1"
   },
   {
-    name: "Ngithande-MPOSA.CO.ZA",
-    artist: "Miss_Enhle_ft_DJ_Tira_Joocy_Skye_Wanda  ",
-    img: " Miss_Enhle_ft_DJ_Tira_Joocy_Skye_Wanda_-_Ngithande-MPOSA.CO.ZA",
-    src: " Miss_Enhle_ft_DJ_Tira_Joocy_Skye_Wanda_-_Ngithande-MPOSA.CO.ZA"
-  },
-
-  {
     name: "Chipi Ke Chipi ( 256kbps cbr )",
     artist: "Mellow & Sleazy  ",
     img: "music-2",
     src: "music-2"
+  },
+  {
+    name: "Ngithande ( 256kbps cbr )",
+    artist: "DJ Tira ft Joocy,Skywander",
+    img: "music-9",
+    src: "music-9"
   },
   {
     name: " Kancane ft. Chley Konke & Nkulee501 ( 256kbps cbr )",
@@ -47,6 +46,7 @@ let allMusic = [
     img: "music-5",
     src: "music-5"
   },
+ 
   {
     name: "Jikelele-MPOSA.CO.ZA",
     artist: "Mthandazo_Gatya_ft_Mvzzle",
