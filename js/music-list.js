@@ -46,13 +46,6 @@ let allMusic = [
     img: "music-5",
     src: "music-5"
   },
- 
-  {
-    name: "Jikelele-MPOSA.CO.ZA",
-    artist: "Mthandazo_Gatya_ft_Mvzzle",
-    img: "h",
-    src: "Mthandazo_Gatya_ft_Mvzzle_-_Jikelele-MPOSA.CO.ZA"
-  },
  {
     name: "Chicken Crying",
     artist: "DJ Len  ",
@@ -65,6 +58,14 @@ let allMusic = [
     img: "music-10",
     src: "music-10"
   },
+ 
+  {
+    name: "Jikelele-MPOSA.CO.ZA",
+    artist: "Mthandazo_Gatya_ft_Mvzzle",
+    img: "h",
+    src: "Mthandazo_Gatya_ft_Mvzzle_-_Jikelele-MPOSA.CO.ZA"
+  },
+
 
   // like this paste it and remember to give comma after ending of this bracket }
   // {
