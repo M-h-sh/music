@@ -8,7 +8,6 @@
 //   }
 
 //paste it inside the array as more as you want music then you don't need to do any other thing
-
 let allMusic = [
   {
     name: "MaGear (Official Audio) feat. Mr Brown prod. by Master Azart ( 256kbps cbr )",
@@ -16,14 +15,12 @@ let allMusic = [
     img: "music-1",
     src: "music-1"
   },
-
   {
     name: "Chipi Ke Chipi ( 256kbps cbr )",
     artist: "Mellow & Sleazy  ",
     img: "music-2",
     src: "music-2"
   },
-
  {
     name: "Ngithande ( 256kbps cbr )",
     artist: "DJ Tira ft Joocy,Skywander",
@@ -66,7 +63,6 @@ let allMusic = [
     img: "music-10",
     src: "music-10"
   },
- 
   {
     name: "Jikelele-MPOSA.CO.ZA",
     artist: "Mthandazo_Gatya_ft_Mvzzle",
