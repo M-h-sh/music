@@ -16,6 +16,18 @@ let allMusic = [
     src: "music-1"
   },
   {
+    name: "Amapiano Beat IMPUMELELO ",
+    artist: "Mas Musiq Aymos Mdu Trp Mr JazziQ  Busta 929",
+    img: "music-12",
+    src: "music-12"
+  },
+ {
+    name: "Amapiano Beat LORCH ",
+    artist: "  Emceey  feat Felo Le Tee Madumane Busta 929 Mellow  Sleazy",
+    img: "music-13",
+    src: "music-13"
+  },
+  {
     name: "E Nametse",
     artist: "DJ 🔥(Wena DJ) | Krusher SA & Nanza SA",
     img: "music-6",
