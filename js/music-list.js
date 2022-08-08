@@ -16,6 +16,12 @@ let allMusic = [
     src: "music-1"
   },
   {
+    name: "E Nametse",
+    artist: "DJ 🔥(Wena DJ) | Krusher SA & Nanza SA",
+    img: "music-6",
+    src: "music-6"
+  },
+  {
     name: "Chipi Ke Chipi ( 256kbps cbr )",
     artist: "Mellow & Sleazy  ",
     img: "music-2",
