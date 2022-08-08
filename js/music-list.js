@@ -16,13 +16,15 @@ let allMusic = [
     img: "music-1",
     src: "music-1"
   },
+
   {
     name: "Chipi Ke Chipi ( 256kbps cbr )",
     artist: "Mellow & Sleazy  ",
     img: "music-2",
     src: "music-2"
   },
-  {
+
+ {
     name: "Ngithande ( 256kbps cbr )",
     artist: "DJ Tira ft Joocy,Skywander",
     img: "music-9",
@@ -33,6 +35,12 @@ let allMusic = [
     artist: "Musa Keys ",
     img: "music-3",
     src: "music-3"
+  },
+  {
+    name: "Love Is Wicked Amapiano Remix",
+    artist: "DJ Nomza",
+    img: "music-7",
+    src: "music-7"
   },
   {
     name: "WenzanuKabzaOfficial Audio",
