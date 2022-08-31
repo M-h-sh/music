@@ -16,6 +16,12 @@ let allMusic = [
     src: "music-1"
   },
   {
+    name: " Crazy Vibez HD Audio ( 256kbps cbr )",
+    artist: "Luxury SA",
+    img: "music-00",
+    src: "music-00"
+  },
+  {
     name: "Amapiano Beat IMPUMELELO ",
     artist: "Mas Musiq Aymos Mdu Trp Mr JazziQ  Busta 929",
     img: "music-12",
