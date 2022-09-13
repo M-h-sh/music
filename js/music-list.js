@@ -21,6 +21,19 @@ let allMusic = [
     img: "music-00",
     src: "music-00"
   },
+{
+    name: " SETE",
+    artist: "KO_ft_Young_Stunna_Blxckie",
+    img: "KO_-_SETE_ft_Young_Stunna_Blxckie",
+    src: "KO_-_SETE_ft_Young_Stunna_Blxckie"
+  },
+  {
+
+    name: "Hamba_Wena",
+    artist: "Deep_London_X_Boohle",
+    img: "Deep_London_X_Boohle_-_Hamba_Wena",
+    src: "Deep_London_X_Boohle_-_Hamba_Wena"
+  },
   {
     name: "Amapiano Beat IMPUMELELO ",
     artist: "Mas Musiq Aymos Mdu Trp Mr JazziQ  Busta 929",
