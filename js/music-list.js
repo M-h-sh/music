@@ -15,6 +15,12 @@ let allMusic = [
     img: "music-1",
     src: "music-1"
   },
+ {
+    name: "Skeem Saka",
+    artist: "Don Edward, Xduppy, Senjay & Stay C   ",
+    img: "music-8",
+    src: "music-8"
+  },
   {
     name: " Crazy Vibez HD Audio ( 256kbps cbr )",
     artist: "Luxury SA",
