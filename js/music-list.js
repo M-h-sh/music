@@ -15,6 +15,12 @@ let allMusic = [
     img: "music-1",
     src: "music-1"
   },
+{
+    name: "Be Free",
+    artist: "STI Ts Soul  ",
+    img: "music-15",
+    src: "music-15"
+  },
  {
     name: "Skeem Saka",
     artist: "Don Edward, Xduppy, Senjay & Stay C   ",
