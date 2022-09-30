@@ -16,6 +16,30 @@ let allMusic = [
     src: "music-1"
   },
 {
+    name: " Lengane",
+    artist: "Venom  Shishiliza   feat  Raspy Howard Aubrey Qwana Focalistic King illest  S O N",
+    img: "music-19",
+    src: "music-19"
+  },
+{
+    name: "Asiyeke",
+    artist: "  Soulful G  Official Audio feat Soa Mattrix  Amapiano ",
+    img: "music-18",
+    src: "music-18"
+  },
+{
+    name: "KU LO SA Lyrics",
+    artist: " Oxlade",
+    img: "music-17",
+    src: "music-17"
+  },
+{
+    name: "SoulMc Nitos  Luv 2 U",
+    artist: "DJ Jaivane ",
+    img: "music-16",
+    src: "music-16"
+  },
+{
     name: "Be Free",
     artist: "STI Ts Soul  ",
     img: "music-15",
