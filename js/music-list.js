@@ -16,6 +16,12 @@ let allMusic = [
     src: "music-1"
   },
 {
+    name: " Lilizela ",
+    artist: " Tyler ICU  Nkosazana Daughter ft DJ Maphorisa  Kabza De Small",
+    img: "music-20",
+    src: "music-20"
+  },
+{
     name: " Lengane",
     artist: "Venom  Shishiliza   feat  Raspy Howard Aubrey Qwana Focalistic King illest  S O N",
     img: "music-19",
