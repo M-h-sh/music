@@ -16,6 +16,12 @@ let allMusic = [
     src: "music-1"
   },
 {
+    name: "Ningalali_Emakhaya",
+    artist: " Mr_JazziQ ft Zan_Ten_Ta_Skippa",
+    img: "music-21",
+    src: "music-21"
+  },
+{
     name: " Lilizela ",
     artist: " Tyler ICU  Nkosazana Daughter ft DJ Maphorisa  Kabza De Small",
     img: "music-20",
