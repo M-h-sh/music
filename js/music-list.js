@@ -16,6 +16,12 @@ let allMusic = [
     src: "music-1"
   },
 {
+    name: "Ba-Straata",
+    artist: "DJ-Maphorisa-ft-2woshort-x-Stompiiey-007  ",
+    img: "music-22",
+    src: "music-22"
+  },
+{
     name: "Ningalali_Emakhaya",
     artist: " Mr_JazziQ ft Zan_Ten_Ta_Skippa",
     img: "music-21",
