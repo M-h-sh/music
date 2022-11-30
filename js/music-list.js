@@ -16,6 +16,73 @@ let allMusic = [
     src: "music-1"
   },
 {
+    name: " Pele Pele",
+    artist: " Chcco Focalistic  Mellow  Sleazy ",
+    img: "music-32",
+    src: "music-32"
+  },
+{
+    name: " Tobetsa",
+    artist: " Myztro x Shaunmusiq  Ftears",
+    img: "music-31",
+    src: "music-31"
+  },
+{
+    name: " Feeling",
+    artist: " Mapara A JAZZ   Mr Brown r",
+    img: "music-30",
+    src: "music-30"
+  },
+{
+{
+    name: " Van_Damme",
+    artist: "Busta_929_De_Mthuda_Ft_MalumNator",
+    img: "music-29",
+    src: "music-29"
+  },
+{
+    name: "  Ama Million",
+    artist: "Tyler ICU  ft. Chley Nkosi, Toss & Freddy K",
+    img: "music-28",
+    src: "music-28"
+  },
+{
+    name: "  Tobetsa",
+    artist: " Focalistic & Myztro  Ft. ShaunMusiq & F Tears022",
+    img: "music-27",
+    src: "music-27"
+  },
+{
+    name: " AbaJuluke  Official Audio",
+    artist: " Kabza De Small  DJ Maphorisa feat Young Stunna Madumane  Zingah",
+    img: "music-26",
+    src: "music-26"
+  },
+ {
+    name: "Konke",
+    artist: " Jewel, nana, phelzo & dopelements",
+    img: "music-25",
+    src: "music-25"
+  },
+  {
+    name: "Ncebeleka",
+    artist: "Toss_Felo_Le_Tee",
+    img: "music-24",
+    src: "music-24"
+  },
+  {
+    name: "Mnike",
+    artist: "Konke_Musa_Keys_Chley _ft_Sayfar ",
+    img: "music-23",
+    src: "music-23"
+  },
+  {
+    name: "Ngafa (Remix)",
+    artist: " LordPercival SA  ",
+    img: "music-14",
+    src: "music-14"
+  },
+{
     name: "Ba-Straata",
     artist: "DJ-Maphorisa-ft-2woshort-x-Stompiiey-007  ",
     img: "music-22",
