@@ -29,7 +29,7 @@ let allMusic = [
   },
 {
     name: " Feeling",
-    artist: " Mapara A JAZZ   Mr Brown r",
+    artist: " Mapara A JAZZ   Mr Brown ",
     img: "music-30",
     src: "music-30"
   },
