@@ -33,7 +33,7 @@ let allMusic = [
     img: "music-30",
     src: "music-30"
   },
-{
+
 {
     name: " Van_Damme",
     artist: "Busta_929_De_Mthuda_Ft_MalumNator",
