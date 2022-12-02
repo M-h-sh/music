@@ -12,9 +12,9 @@
 :root{
   --pink:teal;
   --violet:grey;
-  --lightblack:gray;
+  --lightblack:maroon;
   --white:white;
-  --darkwhite: purple;
+  --darkwhite: brown;
   --pinkshadow: #ffcbdd;
   --lightbshadow: rgba(0,0,0,0.15);
 }
