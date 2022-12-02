@@ -11,10 +11,10 @@
 }
 :root{
   --pink:teal;
-  --violet:red;
+  --violet:grey;
   --lightblack:gray;
   --white:white;
-  --darkwhite: orange;
+  --darkwhite: purple;
   --pinkshadow: #ffcbdd;
   --lightbshadow: rgba(0,0,0,0.15);
 }
