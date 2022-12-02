@@ -10,11 +10,11 @@
   margin: 0;
 }
 :root{
-  --pink:black;
-  --violet:darkblue;
+  --pink:teal;
+  --violet:red;
   --lightblack:gray;
   --white:white;
-  --darkwhite: #cecaca;
+  --darkwhite: orange;
   --pinkshadow: #ffcbdd;
   --lightbshadow: rgba(0,0,0,0.15);
 }
