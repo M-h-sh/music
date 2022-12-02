@@ -15,6 +15,24 @@ let allMusic = [
     img: "music-1",
     src: "music-1"
   },
+ {
+    name: "asanda",
+    artist: "kususa-amp-argento-dust-ft-zakes-bantwini",
+    img: "music-35",
+    src: "music-35"
+  },
+ {
+    name: "Ngidlisiwe",
+    artist: "Malungelo_ft_Mduduzi_Ncube_Mr_Brown ",
+    img: "music-34",
+    src: "music-34"
+  },
+  {
+    name: "No-Mystery",
+    artist: "Kukzer-Wadi-Piano ft-Mellow-Sleazy ",
+    img: "music-33",
+    src: "music-33"
+  },
 {
     name: " Pele Pele",
     artist: " Chcco Focalistic  Mellow  Sleazy ",
