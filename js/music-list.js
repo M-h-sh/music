@@ -15,6 +15,45 @@ let allMusic = [
     img: "music-1",
     src: "music-1"
   },
+
+{
+    name: "  Sghubhu ska Kabza",
+    artist: " Kwesta  Kabza De Small  ft Papta Mancane ",
+    img: "music-41",
+    src: "music-41"
+  },
+{
+    name: "  Ispantsula",
+    artist: " Kwesta  Kabza De Small  ft Papta Mancane ",
+    img: "music-40",
+    src: "music-40"
+  },
+{
+    name: " Tobetsa Remake",
+    artist: " Myztro - Focalistic, DaliWonga, ShaunMusiq & Ftears ",
+    img: "music-39",
+    src: "music-39"
+  },
+{
+    name: "Uzongsiza",
+    artist: " AfroToniQ ",
+    img: "music-38",
+    src: "music-38"
+  },
+ {
+    name: "Aweah Official Audio",
+    artist: " Yo Maps   ",
+    img: "music-37",
+    src: "music-37"
+  },
+
+  {
+    name: "Vuma Dali ",
+    artist: "TNS Ft Pixie L  Sithelo Da DJ ",
+    img: "music-36",
+    src: "music-36"
+  },
+
  {
     name: "asanda",
     artist: "kususa-amp-argento-dust-ft-zakes-bantwini",
